@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **18yr Old Front End Master**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
