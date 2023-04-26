@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
-- 🔭 I’m currently working on [My own website](for 2 weeks (:)
+- 🔭 I’m currently working on  (https://doubleclicknetwork.com/)
 
 - 🌱 I’m currently learning **How to find clients**
 
